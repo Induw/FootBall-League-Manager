@@ -1,12 +1,11 @@
 
 
-# Java Play Angular Seed
+# FootBall League Manager made using Java, Play, Angular
 
 > Use play framework to develop the web application backend/services and frontend using Angular CLI, all in a totally integrated workflow and single unified console. This approach will deliver perfect development experience without CORS hassle. 
 
 
 
-[![Java Play Angular Seed](https://github.com/yohangz/java-play-angular-seed/blob/master/angular.png)](http://bit.ly/2AStvhK)
 
 ## Used Versions
 
