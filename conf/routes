@@ -1,0 +1,7 @@
+######### Routes #########
+# This file displays all the application routes
+GET    /api/getLeagueData        controllers.HomeController.getPremierLeagueData
+
+GET    /api/getMatchData         controllers.HomeController.getMatchData
+
+GET   /api/generateMatch         controllers.HomeController.generateMatch

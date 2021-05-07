@@ -1,0 +1,24 @@
+h2{
+  margin-top: 10px;
+  text-align: center;
+  font-family: 'Oswald','sans-serif' ;
+  color: rgb(29, 29, 97);
+}
+table {
+    width: 100%;
+   margin-top: 30px;
+   
+  }
+  th.mat-header-cell {
+    color: rgb(13, 7, 94);
+    font-size: 16px;
+    
+  }
+ 
+  .mat-row:nth-child(even){
+    background-color: rgb(136, 193, 240);
+}
+        
+.mat-row:nth-child(odd){
+    background-color: rgb(233, 240, 239);
+}

@@ -1,0 +1,63 @@
+
+
+body {
+    margin: 0;
+    font-family: 'Oswald', 'sans-serif';
+    font-size: 16px;
+}
+
+.navigation {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background: cornflowerblue;
+    padding: 1.5em 0;
+}
+
+ul li a {
+        color:rgb(8, 45, 75);
+        font-size: 21px;
+        font-family: 'Oswald';
+        text-decoration: none;
+    }
+    a.logo {
+        font-weight: bold;
+        font-family: 'Oswald';
+        text-decoration: none;
+        font-size: 28px;
+        color: rgb(6, 6, 39);
+    }
+
+    nav {
+        float: right;
+    }
+
+    ul {
+            list-style-type: none;
+            margin: 0;
+            display: flex;
+    }
+
+    ul li a {
+                padding: 1.07em;
+                border-right: outset rgb(8, 45, 75) 1px;
+                border-left: outset rgb(8, 45, 75) 1px;
+            }
+    
+
+    ul li a:focus{
+                background-color: rgb(13, 67, 110);
+                color: rgb(242, 250, 249);
+    }
+    ul li a:hover{
+        background-color: rgb(8, 45, 75);
+        color: rgb(242, 250, 249);
+    }
+  
+
+
+h1 {
+    margin-top: 2em;
+}  
